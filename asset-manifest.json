@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/keptrandom/static/js/main.064e2d4b.chunk.js",
+    "main.js.map": "/keptrandom/static/js/main.064e2d4b.chunk.js.map",
+    "runtime-main.js": "/keptrandom/static/js/runtime-main.5141d766.js",
+    "runtime-main.js.map": "/keptrandom/static/js/runtime-main.5141d766.js.map",
+    "static/js/2.42d6083f.chunk.js": "/keptrandom/static/js/2.42d6083f.chunk.js",
+    "static/js/2.42d6083f.chunk.js.map": "/keptrandom/static/js/2.42d6083f.chunk.js.map",
+    "index.html": "/keptrandom/index.html",
+    "static/js/2.42d6083f.chunk.js.LICENSE.txt": "/keptrandom/static/js/2.42d6083f.chunk.js.LICENSE.txt",
+    "static/media/kept.f9f55104.png": "/keptrandom/static/media/kept.f9f55104.png",
+    "static/media/murabito.063ed396.png": "/keptrandom/static/media/murabito.063ed396.png",
+    "static/media/sizue.cdb1e216.png": "/keptrandom/static/media/sizue.cdb1e216.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5141d766.js",
+    "static/js/2.42d6083f.chunk.js",
+    "static/js/main.064e2d4b.chunk.js"
+  ]
+}
